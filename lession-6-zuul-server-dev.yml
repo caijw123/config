@@ -114,4 +114,4 @@ tony:
       noAuthenticationRoutes: lession-6-sms-interface
         #- uaa-token
 cjw:
-  sms:111
+  sms: 111a
