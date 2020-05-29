@@ -113,3 +113,5 @@ tony:
     tokenFilter:
       noAuthenticationRoutes: lession-6-sms-interface
         #- uaa-token
+cjw:
+  sms:111
